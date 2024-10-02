@@ -1,0 +1,225 @@
+{
+    "pasajeros": [
+        {
+            "Id": 1,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Ibai Llanos",
+            "DNI_Pasajero": "56473829",
+            "Precio": "1496782.45",
+            "Origen": "Buenos Aires",
+            "Destino": "Miami",
+            "Clase": "Turista",
+            "Fecha": "20240521"
+        },
+        {
+            "Id": 2,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "Coscu Martín",
+            "DNI_Pasajero": "48736259",
+            "Precio": "1789456.32",
+            "Origen": "Roma",
+            "Destino": "Tokio",
+            "Clase": "Ejecutivo",
+            "Fecha": "20241208"
+        },
+        {
+            "Id": 3,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "PewDiePie Felix",
+            "DNI_Pasajero": "69382475",
+            "Precio": "978456.78",
+            "Origen": "Madrid",
+            "Destino": "París",
+            "Clase": "Turista",
+            "Fecha": "20250114"
+        },
+        {
+            "Id": 4,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Luzu Borja",
+            "DNI_Pasajero": "57483920",
+            "Precio": "1567843.90",
+            "Origen": "París",
+            "Destino": "Buenos Aires",
+            "Clase": "Ejecutivo",
+            "Fecha": "20250329"
+        },
+        {
+            "Id": 5,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "Duki Mauro",
+            "DNI_Pasajero": "48273615",
+            "Precio": "1657892.55",
+            "Origen": "Miami",
+            "Destino": "Roma",
+            "Clase": "Turista",
+            "Fecha": "20241002"
+        },
+        {
+            "Id": 6,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "AuronPlay Raúl",
+            "DNI_Pasajero": "38572640",
+            "Precio": "1956783.20",
+            "Origen": "Tokio",
+            "Destino": "Madrid",
+            "Clase": "Ejecutivo",
+            "Fecha": "20240617"
+        },
+        {
+            "Id": 7,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Bizarrap Gonzalo",
+            "DNI_Pasajero": "58492617",
+            "Precio": "1023456.78",
+            "Origen": "Roma",
+            "Destino": "Buenos Aires",
+            "Clase": "Turista",
+            "Fecha": "20250225"
+        },
+        {
+            "Id": 8,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "Rubius Rubén",
+            "DNI_Pasajero": "69728534",
+            "Precio": "1754321.45",
+            "Origen": "París",
+            "Destino": "Tokio",
+            "Clase": "Ejecutivo",
+            "Fecha": "20240910"
+        },
+        {
+            "Id": 9,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "Vegetta777 Samuel",
+            "DNI_Pasajero": "38574920",
+            "Precio": "1345678.90",
+            "Origen": "Miami",
+            "Destino": "Madrid",
+            "Clase": "Turista",
+            "Fecha": "20250307"
+        },
+        {
+            "Id": 10,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Trueno Mateo",
+            "DNI_Pasajero": "57482916",
+            "Precio": "1598765.40",
+            "Origen": "Buenos Aires",
+            "Destino": "Roma",
+            "Clase": "Ejecutivo",
+            "Fecha": "20241123"
+        },
+        {
+            "Id": 11,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "NickiNicole Nicole",
+            "DNI_Pasajero": "37482951",
+            "Precio": "1456789.32",
+            "Origen": "Tokio",
+            "Destino": "Buenos Aires",
+            "Clase": "Turista",
+            "Fecha": "20240614"
+        },
+        {
+            "Id": 12,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "Rusherking Thomas",
+            "DNI_Pasajero": "48273950",
+            "Precio": "1689456.75",
+            "Origen": "Madrid",
+            "Destino": "París",
+            "Clase": "Ejecutivo",
+            "Fecha": "20250418"
+        },
+        {
+            "Id": 13,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Dross Angel",
+            "DNI_Pasajero": "59284736",
+            "Precio": "1547890.85",
+            "Origen": "Buenos Aires",
+            "Destino": "Tokio",
+            "Clase": "Turista",
+            "Fecha": "20250726"
+        },
+        {
+            "Id": 14,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "TiagoPZK Tiago",
+            "DNI_Pasajero": "48739250",
+            "Precio": "1798765.10",
+            "Origen": "Roma",
+            "Destino": "Miami",
+            "Clase": "Ejecutivo",
+            "Fecha": "20251203"
+        },
+        {
+            "Id": 15,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "KHEA Ivo",
+            "DNI_Pasajero": "58374926",
+            "Precio": "1256789.65",
+            "Origen": "París",
+            "Destino": "Buenos Aires",
+            "Clase": "Turista",
+            "Fecha": "20250127"
+        },
+        {
+            "Id": 16,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Lali Espósito",
+            "DNI_Pasajero": "39485716",
+            "Precio": "1478956.23",
+            "Origen": "Miami",
+            "Destino": "Madrid",
+            "Clase": "Ejecutivo",
+            "Fecha": "20241019"
+        },
+        {
+            "Id": 17,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "Cazzu Julia",
+            "DNI_Pasajero": "68394720",
+            "Precio": "1378654.78",
+            "Origen": "Madrid",
+            "Destino": "París",
+            "Clase": "Turista",
+            "Fecha": "20250922"
+        },
+        {
+            "Id": 18,
+            "Aerolinea": "IBERIA",
+            "Apellido_Nombre_Pasajero": "YsyA Alejo",
+            "DNI_Pasajero": "59384726",
+            "Precio": "1587432.90",
+            "Origen": "Tokio",
+            "Destino": "Roma",
+            "Clase": "Ejecutivo",
+            "Fecha": "20250509"
+        },
+        {
+            "Id": 19,
+            "Aerolinea": "LATAM",
+            "Apellido_Nombre_Pasajero": "Patty Drake",
+            "DNI_Pasajero": "49572638",
+            "Precio": "1923456.78",
+            "Origen": "Buenos Aires",
+            "Destino": "Miami",
+            "Clase": "Turista",
+            "Fecha": "20251115"
+        },
+        {
+            "Id": 20,
+            "Aerolinea": "AA",
+            "Apellido_Nombre_Pasajero": "Willyrex Guillermo",
+            "DNI_Pasajero": "58472693",
+            "Precio": "1689456.12",
+            "Origen": "Roma",
+            "Destino": "Tokio",
+            "Clase": "Ejecutivo",
+            "Fecha": "20240828"
+        }
+        
+    ]
+}
